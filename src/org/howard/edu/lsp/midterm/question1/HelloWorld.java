@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.midterm;
+package org.howard.edu.lsp.midterm.question1;
 
 /**
  *  Robel Kebede
@@ -8,3 +8,4 @@ public class HelloWorld {
         System.out.println("Hello World!!");
     }
 }
+
